@@ -1,5 +1,20 @@
 # First-term-exam---Practical
 
+Esta API esta creada con la finalidad de gestionar credenciales de usuarios usando operaciones CRUD y una ruta de autenticacion para iniciar sesión
+
+**Requisitos**
+Python 3.7+
+FastAPI
+Uvicorn
+
+**Comandos usados para creacion de entorno virtual**
+python -m venv entorno
+source entorno/bin/activate <- BASH
+.\entorno\Scripts\activate <- Windows
+
+**Instalacion de dependencias**
+pip install requirements.txt
+
 get credenciales  
 <img width="1415" height="800" alt="image" src="https://github.com/user-attachments/assets/b14a85d7-4d44-44e5-985a-c1ce205b983e" />  
   
